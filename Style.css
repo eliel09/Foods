@@ -1,0 +1,27 @@
+.menu {
+  list-style-type: inherit;
+  margin: 26px 15px;
+  padding: 10px 30px;
+  float: right;
+  background: red;
+  color: white;
+  display: inline-block;
+    
+}
+Body {
+    background-color: black;
+    color: white;
+}
+.diet{
+    float: right;
+    margin: 40px;
+    padding-right: 50px;
+    
+
+}
+h1{
+    color: red;
+}
+h2 {
+    color: red;
+}
